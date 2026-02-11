@@ -1,22 +1,22 @@
-# 🚀 YOUR_NAME  
+# 🚀 Prateeksha P  
 
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+YOUR_NAME;💻+YOUR_ROLE;🚀+YOUR_SPECIALIZATION;🌟+Open+to+Collaborations!;🎯+YOUR_TAGLINE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+Prateeksha P;💻+Full Stack Developer;🚀+MCA;🌟+Open+to+Collaborations!;🎯+Building, Learning ,Growing" />
 </h1>
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/prateeksha-p-1334a4253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Prathii19">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:prateeksharajputh19@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -28,7 +28,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=F875AA&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Prathii19&label=Profile+Views&color=F875AA&style=flat-square" />
 
 </div>
 
@@ -47,30 +47,20 @@ Love building efficient applications and exploring AI/ML integration.
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Language 1  
-• Language 2  
-• Language 3  
+• Python 
 
 ### 🚀 Backend
-• Framework 1  
-• Framework 2  
-• Framework 3  
+• Django 
 
-### 💅 Frontend
-• React / Vue / Angular  
-• HTML / CSS  
-• Tailwind / Bootstrap  
+### 💅 Frontend 
+• HTML / CSS  /JavaScript
 
 ### 🗄️ Databases
-• PostgreSQL  
 • MySQL  
-• MongoDB  
-
+  
 ### ⚙️ DevOps & Tools
 • Git  
-• Docker  
-• AWS  
-• Linux  
+• VS Code  
 
 ---
 
@@ -78,9 +68,9 @@ Love building efficient applications and exploring AI/ML integration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prathii19&show_icons=true&theme=radical&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathii19&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
@@ -90,7 +80,7 @@ Love building efficient applications and exploring AI/ML integration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathii19&layout=compact&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
