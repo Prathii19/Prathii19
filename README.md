@@ -36,12 +36,8 @@
 
 ## 🎯 About Me
 
-YOUR_SHORT_INTRODUCTION_PARAGRAPH
-
-Example:
-Passionate Full Stack Developer specializing in scalable backend systems.
-Love building efficient applications and exploring AI/ML integration.
-
+Passionate Python Full Stack Developer with a strong interest in AI and NLP.
+Love building practical web applications and solving real-world problems through technology.
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -88,26 +84,31 @@ Love building efficient applications and exploring AI/ML integration.
 
 ## 🏆 Featured Projects
 
-### 🔹 PROJECT_NAME_1
-**Description:** Short description of your project.  
-**Tech Stack:** Tech1, Tech2, Tech3  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
+### 🔹AI-Based Legal Document Summarization Web App  
+**Description:** Developed a Flask-based web application that summarizes legal documents in English and Kannada. The system extracts text from PDF, DOC, and TXT files, applies NLP techniques using NLTK and Hugging Face for summary generation, and produces Kannada audio summaries using gTTS. The application enables faster understanding of lengthy legal documents through concise text and speech summaries.
+**Tech Stack:** Python (Flask Framework),NLTK & Hugging Face (NLP Models),gTTS (Text-to-Speech for Kannada Audio)  
+**GitHub:** https://github.com/Prathii19/PROJECT_REPO  
 
 ---
 
-### 🔹 PROJECT_NAME_2
-**Description:** Short description of your project.  
-**Tech Stack:** Tech1, Tech2, Tech3  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
+### 🔹 
+**Description:** Developed a simple educational web application designed for children. The platform includes interactive alphabet learning, Kannada video lessons, and quiz activities. Basic backend logic was implemented using Python with SQL for data storage and retrieval, providing a smooth and engaging learning experience.  
+**Tech Stack:** HTML & CSS,Python,SQL (Database) 
+**GitHub:** https://github.com/Prathii19/PROJECT_REPO  
 
 ---
 
 ## 📚 Current Goals
 
-- [ ] Goal 1  
-- [ ] Goal 2  
-- [ ] Goal 3  
-- [ ] Certification / Learning  
+- Strengthen AI & NLP Knowledge  
+- Build 3+ Real-World Full Stack Projects
+- Improve Data Structures & Algorithms skills
+
+- [ ] Certification / Learning
+- [ ] Python Basics — Infosys Springboard
+- [ ] Introduction to Artificial Intelligence — Great Learning
+- [ ] Generative AI for Beginners — Great Learning
+- [ ] Python Full Stack Development (Pursuing) — PySpiders
 
 ---
 
@@ -124,8 +125,8 @@ I’m open to working on:
 
 ## 📬 Connect With Me
 
-📧 Email: YOUR_EMAIL  
-🔗 LinkedIn: YOUR_LINKEDIN_URL  
+📧 Email: prateeksharajputh19@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/prateeksha-p-1334a4253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 🌐 Portfolio: YOUR_PORTFOLIO_URL  
 
 ---
