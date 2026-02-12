@@ -100,9 +100,9 @@ Love building practical web applications and solving real-world problems through
 
 ## 📚 Current Goals
 
-- [ ]Strengthen AI & NLP Knowledge  
-- [ ]Build 3+ Real-World Full Stack Projects
-- [ ]Improve Data Structures & Algorithms skills
+- [ ] Strengthen AI & NLP Knowledge  
+- [ ] Build 3+ Real-World Full Stack Projects
+- [ ] Improve Data Structures & Algorithms skills
 
  Certification / Learning
 - [ ] Python Basics — Infosys Springboard
