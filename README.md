@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+Prateeksha P;💻+Full Stack Developer;🚀+MCA;🌟+Open+to+Collaborations!;🎯+Building, Learning ,Growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+PRATEEKSHA+P;💻+Python+Developer;🚀+AI%2FML+Enthusiast;🌟+Open+to+Collaborations!;🎯+Building+Real-World+Projects" />
 </h1>
 
 <div align="center">
