@@ -43,7 +43,7 @@ Love building practical web applications and solving real-world problems through
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Python 
+• Python (Core Python, OOP, File Handling) 
 
 ### 🚀 Backend
 • Django 
@@ -52,7 +52,7 @@ Love building practical web applications and solving real-world problems through
 • HTML / CSS  /JavaScript
 
 ### 🗄️ Databases
-• MySQL  
+• SQL (Queries, Joins, Subqueries) 
   
 ### ⚙️ DevOps & Tools
 • Git  
@@ -91,7 +91,7 @@ Love building practical web applications and solving real-world problems through
 
 ---
 
-### 🔹 
+### 🔹 Kids Learning Web Application 
 **Description:** Developed a simple educational web application designed for children. The platform includes interactive alphabet learning, Kannada video lessons, and quiz activities. Basic backend logic was implemented using Python with SQL for data storage and retrieval, providing a smooth and engaging learning experience.  
 **Tech Stack:** HTML & CSS,Python,SQL (Database) 
 **GitHub:** https://github.com/Prathii19/PROJECT_REPO  
@@ -100,11 +100,11 @@ Love building practical web applications and solving real-world problems through
 
 ## 📚 Current Goals
 
-- Strengthen AI & NLP Knowledge  
-- Build 3+ Real-World Full Stack Projects
-- Improve Data Structures & Algorithms skills
+- [ ]Strengthen AI & NLP Knowledge  
+- [ ]Build 3+ Real-World Full Stack Projects
+- [ ]Improve Data Structures & Algorithms skills
 
-- [ ] Certification / Learning
+ Certification / Learning
 - [ ] Python Basics — Infosys Springboard
 - [ ] Introduction to Artificial Intelligence — Great Learning
 - [ ] Generative AI for Beginners — Great Learning
